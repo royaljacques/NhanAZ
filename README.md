@@ -10,7 +10,7 @@
 ``` -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhanAZ&layout=compact&card_width=1000&langs_count=10&theme=radical&hide_border=true&line_height=170" /> <p />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhanAZ&layout=compact&card_width=1000&langs_count=10&theme=radical&hide_border=true&line_height=200" /> <p />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
