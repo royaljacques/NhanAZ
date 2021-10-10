@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ```php
 ✨ I'm studying and working as well as living in VietNam
@@ -7,7 +7,7 @@
 ⚡️ Fun fact: I don't know programming!
 📫 Reach me: Discord: NhanAZ#9115
 🍑 Huh! What should I write in this line?
-```
+``` -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=NhanAZ&theme=radical&hide_border=true&date_format=%5BY%20%5DM%20j" /> <p />
